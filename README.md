@@ -37,7 +37,7 @@ Things you may want to cover:
 | last_name          | string  | null: false               |
 | read_first_name    | string  | null: false               |
 | read_last_name     | string  | null: false               |
-| age_id             | integer | null: false               |
+| age                | integer | null: false               |
 
 ### Association
 
